@@ -1,10 +1,7 @@
-#include <iostream>
+#include <iosteam>
 using namespace std;
 int main(){
-    cout "Hello world";
-
-    cout << "saldfkjsaf";
-    cout "Hello Danish";
-    cout "Github ki MKC";
-
+    int n;
+n = 5;
+cout << n;
 }
